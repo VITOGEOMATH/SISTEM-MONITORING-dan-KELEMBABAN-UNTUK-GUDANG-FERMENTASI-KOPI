@@ -14,8 +14,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/karinamaharani81/Sistem-Monitoring-Suhu-dan-Kelembaban
-cd proyek-monitoring-sensor
+git clone https://github.com/VITOGEOMATH/SISTEM-MONITORING-dan-KELEMBABAN-UNTUK-GUDANG-FERMENTASI-KOPI
 ```
 
 ### 2. Install Python Dependencies
