@@ -1,3 +1,4 @@
+![alt text](https://github.com/VITOGEOMATH/SISTEM-MONITORING-dan-KELEMBABAN-UNTUK-GUDANG-FERMENTASI-KOPI/blob/main/Antarmuka%20QT.png?raw=true)
 # Sistem Monitoring Suhu dan Kelembaban Untuk Gudang Fermentasi Kopi
 
 ## Nama Kelompok : 8
